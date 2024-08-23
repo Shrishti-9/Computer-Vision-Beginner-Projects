@@ -1,1 +1,1 @@
-# Computer-Vision-Basics
+# Computer-Vision-Beginner-Projects
